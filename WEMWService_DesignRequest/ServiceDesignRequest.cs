@@ -1,0 +1,29 @@
+﻿using ImportTools;
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Diagnostics;
+using System.Linq;
+using System.ServiceProcess;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace WEMWService_DesignRequest
+{
+    public partial class ServiceDesignRequest : ImportBase
+    {
+        public ServiceDesignRequest()
+        {
+            InitializeComponent();
+        }
+
+        //protected override void OnStart(string[] args)
+        //{
+        //}
+
+        //protected override void OnStop()
+        //{
+        //}
+    }
+}
