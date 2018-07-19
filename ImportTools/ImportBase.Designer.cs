@@ -3,7 +3,7 @@
     partial class ImportBase
     {
         /// <summary>
-        /// Required designer variable.
+        /// Required designer variable.  exported to Git
         /// </summary>
         private System.ComponentModel.IContainer components = null;
 
